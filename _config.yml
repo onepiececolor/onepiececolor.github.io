@@ -2,9 +2,9 @@ url: https://onepiececolor.github.io/
 baseurl: /onepiececolor.github.io/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: One Piece color
+email: labparallelntu@gmail.com
+description: "We use Artificial Intelligence to colorize One Piece. Our implementation is based on recent advance in Deep Learning."
 
 
 # Team names, titles and social links
